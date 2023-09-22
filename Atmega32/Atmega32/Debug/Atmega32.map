@@ -1,0 +1,1034 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+                              MCAL/PWM/pwm.o (ceil)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              MCAL/PWM/pwm.o (__divsf3)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfdi.o)
+                              MCAL/TIMER/timer.o (__fixunssfdi)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              MCAL/PWM/pwm.o (__fixunssfsi)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              MCAL/PWM/pwm.o (__floatunsisf)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+                              MCAL/TIMER/timer.o (__floatundisf)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_inf)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o) (__fp_mintl)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o) (__fp_mpack)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_nan)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfdi.o) (__fp_negdi)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscA)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscB)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__fp_round)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_split3)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o) (__fp_trunc)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              MCAL/PWM/pwm.o (__mulsf3)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              MCAL/DIO/dio.o (__tablejump2__)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              MCAL/DIO/dio.o (__do_copy_data)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              APPLICATION/application.o (__do_clear_bss)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+                              MCAL/TIMER/timer.o (__udivdi3)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+                              d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o) (__udivmod64)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+                              MCAL/TIMER/timer.o (__ashldi3)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+                              MCAL/TIMER/timer.o (__adddi3)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+                              MCAL/TIMER/timer.o (__adddi3_s8)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+                              MCAL/TIMER/timer.o (__subdi3)
+d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+                              MCAL/TIMER/timer.o (__cmpdi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+timers              0x15              MCAL/TIMER/timer.o
+GP_IRQ_callback     0x6               MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+g_pwm               0x9               MCAL/PWM/pwm.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 APPLICATION/application.o
+ .data          0x00000000        0x0 APPLICATION/application.o
+ .bss           0x00000000        0x0 APPLICATION/application.o
+ .text          0x00000000        0x0 ECUAL/BUTTON/button.o
+ .data          0x00000000        0x0 ECUAL/BUTTON/button.o
+ .bss           0x00000000        0x0 ECUAL/BUTTON/button.o
+ .text          0x00000000        0x0 ECUAL/LED/led.o
+ .data          0x00000000        0x0 ECUAL/LED/led.o
+ .bss           0x00000000        0x0 ECUAL/LED/led.o
+ .text.ECUAL_led_toggle
+                0x00000000       0x2a ECUAL/LED/led.o
+ .text          0x00000000        0x0 ECUAL/MOTOR/motor.o
+ .data          0x00000000        0x0 ECUAL/MOTOR/motor.o
+ .bss           0x00000000        0x0 ECUAL/MOTOR/motor.o
+ .text.ECUAL_motor_move_backward
+                0x00000000       0x60 ECUAL/MOTOR/motor.o
+ .text.ECUAL_motor_move_left
+                0x00000000       0x3e ECUAL/MOTOR/motor.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text.pwm_test
+                0x00000000       0x56 main.o
+ .text.timer_i  0x00000000       0x3e main.o
+ .text          0x00000000        0x0 MCAL/DIO/dio.o
+ .data          0x00000000        0x0 MCAL/DIO/dio.o
+ .bss           0x00000000        0x0 MCAL/DIO/dio.o
+ .text.MCAL_dio_write_port
+                0x00000000       0x9a MCAL/DIO/dio.o
+ .text.MCAL_dio_toggle_pin
+                0x00000000       0x64 MCAL/DIO/dio.o
+ .text.MCAL_dio_read_port
+                0x00000000       0x54 MCAL/DIO/dio.o
+ .text          0x00000000        0x0 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .data          0x00000000        0x0 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .bss           0x00000000        0x0 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .text          0x00000000        0x0 MCAL/PWM/pwm.o
+ .data          0x00000000        0x0 MCAL/PWM/pwm.o
+ .bss           0x00000000        0x0 MCAL/PWM/pwm.o
+ .text          0x00000000        0x0 MCAL/TIMER/timer.o
+ .data          0x00000000        0x0 MCAL/TIMER/timer.o
+ .bss           0x00000000        0x0 MCAL/TIMER/timer.o
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfdi.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfdi.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfdi.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc   0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .data          0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .bss           0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD APPLICATION/application.o
+LOAD ECUAL/BUTTON/button.o
+LOAD ECUAL/LED/led.o
+LOAD ECUAL/MOTOR/motor.o
+LOAD main.o
+LOAD MCAL/DIO/dio.o
+LOAD MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+LOAD MCAL/PWM/pwm.o
+LOAD MCAL/TIMER/timer.o
+START GROUP
+LOAD d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5\libatmega32.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x23ae
+ *(.vectors)
+ .vectors       0x00000000       0x54 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.get_port_index
+                0x00000054       0x48 MCAL/DIO/dio.o
+                0x0000009c                . = ALIGN (0x2)
+                0x0000009c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000009c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000009c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000009c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000009c                __ctors_start = .
+ *(.ctors)
+                0x0000009c                __ctors_end = .
+                0x0000009c                __dtors_start = .
+ *(.dtors)
+                0x0000009c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000009c        0x0 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x0000009c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000009c        0xc D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000a8       0x16 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000a8                __do_copy_data
+ .init4         0x000000be       0x10 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000be                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000ce        0x8 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000d6        0x4 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x000000d6                __vector_12
+                0x000000d6                __bad_interrupt
+                0x000000d6                __vector_6
+                0x000000d6                __vector_13
+                0x000000d6                __vector_17
+                0x000000d6                __vector_19
+                0x000000d6                __vector_7
+                0x000000d6                __vector_4
+                0x000000d6                __vector_15
+                0x000000d6                __vector_8
+                0x000000d6                __vector_14
+                0x000000d6                __vector_10
+                0x000000d6                __vector_16
+                0x000000d6                __vector_18
+                0x000000d6                __vector_20
+                0x000000da                . = ALIGN (0x2)
+ *(.text.*)
+ .text.application_car_moving_system_init
+                0x000000da       0x82 APPLICATION/application.o
+                0x000000da                application_car_moving_system_init
+ .text.application_car_moving_system
+                0x0000015c      0x366 APPLICATION/application.o
+                0x0000015c                application_car_moving_system
+ .text.emergency_stop
+                0x000004c2       0x28 APPLICATION/application.o
+                0x000004c2                emergency_stop
+ .text.ECUAL_button_init
+                0x000004ea       0x42 ECUAL/BUTTON/button.o
+                0x000004ea                ECUAL_button_init
+ .text.ECUAL_button_read
+                0x0000052c       0x3a ECUAL/BUTTON/button.o
+                0x0000052c                ECUAL_button_read
+ .text.ECUAL_button_enable_EXTI
+                0x00000566       0x54 ECUAL/BUTTON/button.o
+                0x00000566                ECUAL_button_enable_EXTI
+ .text.ECUAL_led_init
+                0x000005ba       0x44 ECUAL/LED/led.o
+                0x000005ba                ECUAL_led_init
+ .text.ECUAL_led_on
+                0x000005fe       0x32 ECUAL/LED/led.o
+                0x000005fe                ECUAL_led_on
+ .text.ECUAL_led_off
+                0x00000630       0x58 ECUAL/LED/led.o
+                0x00000630                ECUAL_led_off
+ .text.ECUAL_motor_init
+                0x00000688       0x80 ECUAL/MOTOR/motor.o
+                0x00000688                ECUAL_motor_init
+ .text.ECUAL_motor_move_forward
+                0x00000708       0x60 ECUAL/MOTOR/motor.o
+                0x00000708                ECUAL_motor_move_forward
+ .text.ECUAL_motor_stop
+                0x00000768       0x24 ECUAL/MOTOR/motor.o
+                0x00000768                ECUAL_motor_stop
+ .text.ECUAL_motor_move_all
+                0x0000078c       0x3e ECUAL/MOTOR/motor.o
+                0x0000078c                ECUAL_motor_move_all
+ .text.ECUAL_motor_move_right
+                0x000007ca       0x3e ECUAL/MOTOR/motor.o
+                0x000007ca                ECUAL_motor_move_right
+ .text.main     0x00000808       0x1a main.o
+                0x00000808                main
+ .text.get_port_index
+                0x00000822       0x5c MCAL/DIO/dio.o
+                0x00000822                get_port_index
+ .text.MCAL_dio_init
+                0x0000087e      0x138 MCAL/DIO/dio.o
+                0x0000087e                MCAL_dio_init
+ .text.MCAL_dio_write_pin
+                0x000009b6       0xb4 MCAL/DIO/dio.o
+                0x000009b6                MCAL_dio_write_pin
+ .text.MCAL_dio_read_pin
+                0x00000a6a       0x68 MCAL/DIO/dio.o
+                0x00000a6a                MCAL_dio_read_pin
+ .text.MCAL_EXTI_init
+                0x00000ad2      0x1f4 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+                0x00000ad2                MCAL_EXTI_init
+ .text.__vector_1
+                0x00000cc6       0x62 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+                0x00000cc6                __vector_1
+ .text.__vector_2
+                0x00000d28       0x62 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+                0x00000d28                __vector_2
+ .text.__vector_3
+                0x00000d8a       0x62 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+                0x00000d8a                __vector_3
+ .text.MCAL_pwm_init
+                0x00000dec      0x1a6 MCAL/PWM/pwm.o
+                0x00000dec                MCAL_pwm_init
+ .text.MCAL_pwm_set_duty_cycle
+                0x00000f92      0x1a8 MCAL/PWM/pwm.o
+                0x00000f92                MCAL_pwm_set_duty_cycle
+ .text.__vector_11
+                0x0000113a      0x11e MCAL/PWM/pwm.o
+                0x0000113a                __vector_11
+ .text.__vector_9
+                0x00001258      0x14e MCAL/PWM/pwm.o
+                0x00001258                __vector_9
+ .text.__vector_5
+                0x000013a6      0x128 MCAL/PWM/pwm.o
+                0x000013a6                __vector_5
+ .text.MCAL_timer_init
+                0x000014ce      0x2f2 MCAL/TIMER/timer.o
+                0x000014ce                MCAL_timer_init
+ .text.MCAL_timer_delay_ms
+                0x000017c0      0x544 MCAL/TIMER/timer.o
+                0x000017c0                MCAL_timer_delay_ms
+ .text.get_prescaler
+                0x00001d04       0x60 MCAL/TIMER/timer.o
+                0x00001d04                get_prescaler
+ .text.avr-libc.fplib
+                0x00001d64       0x2e d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+                0x00001d64                ceil
+ .text.avr-libc.fplib
+                0x00001d92        0x8 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00001d92                __divsf3
+ .text.avr-libc.fplib
+                0x00001d9a       0xdc d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00001dba                __divsf3x
+                0x00001dc0                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00001e76       0x78 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfdi.o)
+                0x00001e76                __fixsfdi
+                0x00001e80                __fixunssfdi
+ .text.avr-libc.fplib
+                0x00001eee       0x5e d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00001eee                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00001f4c       0x7a d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00001f4c                __floatunsisf
+                0x00001f50                __floatsisf
+ .text.avr-libc.fplib
+                0x00001fc6       0x7c d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+                0x00001fc6                __floatundisf
+                0x00001fc8                __fp_di2sf
+ .text.avr-libc.fplib
+                0x00002042        0xc d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00002042                __fp_inf
+ .text.avr-libc.fplib
+                0x0000204e       0x36 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                0x0000204e                __fp_mintl
+ .text.avr-libc.fplib
+                0x00002084       0x1c d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                0x00002084                __fp_mpack
+                0x00002088                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x000020a0        0x6 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x000020a0                __fp_nan
+ .text.avr-libc.fplib
+                0x000020a6       0x20 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+                0x000020a6                __fp_negdi
+ .text.avr-libc.fplib
+                0x000020c6        0xe d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x000020c6                __fp_pscA
+ .text.avr-libc.fplib
+                0x000020d4        0xe d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x000020d4                __fp_pscB
+ .text.avr-libc.fplib
+                0x000020e2       0x22 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x000020e2                __fp_round
+ .text.avr-libc.fplib
+                0x00002104       0x44 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00002104                __fp_split3
+                0x00002114                __fp_splitA
+ .text.avr-libc.fplib
+                0x00002148       0x30 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+                0x00002148                __fp_trunc
+ .text.avr-libc.fplib
+                0x00002178        0xe d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00002178                __fp_zero
+                0x0000217a                __fp_szero
+ .text.avr-libc.fplib
+                0x00002186        0x8 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00002186                __mulsf3
+ .text.avr-libc.fplib
+                0x0000218e       0xd2 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000021ac                __mulsf3x
+                0x000021b2                __mulsf3_pse
+ .text.libgcc   0x00002260        0xc d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00002260                __tablejump2__
+ .text.libgcc.div
+                0x0000226c       0x1c d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+                0x0000226c                __umoddi3
+                0x00002270                __udivdi3
+                0x00002272                __udivdi3_umoddi3
+ .text.libgcc.div
+                0x00002288       0xa2 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+                0x00002288                __udivmod64
+ .text.libgcc.builtins
+                0x0000232a       0x32 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+                0x0000232a                __ashldi3
+ .text.libgcc   0x0000235c       0x12 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+                0x0000235c                __adddi3
+ .text.libgcc   0x0000236e       0x18 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3_s8.o)
+                0x0000236e                __adddi3_s8
+ .text.libgcc   0x00002386       0x12 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+                0x00002386                __subdi3
+ .text.libgcc   0x00002398       0x12 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+                0x00002398                __cmpdi2
+                0x000023aa                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000023aa        0x0 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000023aa                _exit
+                0x000023aa                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000023aa        0x4 d:/learnindepthembedded/tools/avr_studio/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000023ae                _etext = .
+
+.data           0x00800060       0x1c load address 0x000023ae
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.dio_ports
+                0x00800060        0x8 MCAL/DIO/dio.o
+                0x00800060                dio_ports
+ .data.dio_DDRs
+                0x00800068        0x8 MCAL/DIO/dio.o
+                0x00800068                dio_DDRs
+ .data.dio_pins
+                0x00800070        0x8 MCAL/DIO/dio.o
+                0x00800070                dio_pins
+ .data.pin      0x00800078        0x3 MCAL/PWM/pwm.o
+                0x00800078                pin
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0080007c                . = ALIGN (0x2)
+ *fill*         0x0080007b        0x1 
+                0x0080007c                _edata = .
+                0x0080007c                PROVIDE (__data_end, .)
+
+.bss            0x0080007c       0x41
+                0x0080007c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.g_buttonPresses
+                0x0080007c        0x4 APPLICATION/application.o
+                0x0080007c                g_buttonPresses
+ .bss.g_buttonData
+                0x00800080        0x1 APPLICATION/application.o
+                0x00800080                g_buttonData
+ .bss.g_counter
+                0x00800081        0xc MCAL/PWM/pwm.o
+                0x00800081                g_counter
+ .bss.g_duty_value
+                0x0080008d        0xc MCAL/PWM/pwm.o
+                0x0080008d                g_duty_value
+ *(COMMON)
+ COMMON         0x00800099        0x6 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+                0x00800099                GP_IRQ_callback
+ COMMON         0x0080009f        0x9 MCAL/PWM/pwm.o
+                0x0080009f                g_pwm
+ COMMON         0x008000a8       0x15 MCAL/TIMER/timer.o
+                0x008000a8                timers
+                0x008000bd                PROVIDE (__bss_end, .)
+                0x000023ae                __data_load_start = LOADADDR (.data)
+                0x000023ca                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008000bd        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008000bd                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 APPLICATION/application.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 ECUAL/BUTTON/button.o
+ .comment       0x00000030       0x31 ECUAL/LED/led.o
+ .comment       0x00000030       0x31 ECUAL/MOTOR/motor.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 MCAL/DIO/dio.o
+ .comment       0x00000030       0x31 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .comment       0x00000030       0x31 MCAL/PWM/pwm.o
+ .comment       0x00000030       0x31 MCAL/TIMER/timer.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x210
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 APPLICATION/application.o
+ .debug_aranges
+                0x00000030       0x30 ECUAL/BUTTON/button.o
+ .debug_aranges
+                0x00000060       0x38 ECUAL/LED/led.o
+ .debug_aranges
+                0x00000098       0x50 ECUAL/MOTOR/motor.o
+ .debug_aranges
+                0x000000e8       0x30 main.o
+ .debug_aranges
+                0x00000118       0x50 MCAL/DIO/dio.o
+ .debug_aranges
+                0x00000168       0x38 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .debug_aranges
+                0x000001a0       0x40 MCAL/PWM/pwm.o
+ .debug_aranges
+                0x000001e0       0x30 MCAL/TIMER/timer.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x1940
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_info    0x000004e6      0x1ab APPLICATION/application.o
+ .debug_info    0x00000691      0x278 ECUAL/BUTTON/button.o
+ .debug_info    0x00000909      0x23e ECUAL/LED/led.o
+ .debug_info    0x00000b47      0x1f5 ECUAL/MOTOR/motor.o
+ .debug_info    0x00000d3c      0x1b8 main.o
+ .debug_info    0x00000ef4      0x375 MCAL/DIO/dio.o
+ .debug_info    0x00001269      0x1dd MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .debug_info    0x00001446      0x24f MCAL/PWM/pwm.o
+ .debug_info    0x00001695      0x2ab MCAL/TIMER/timer.o
+
+.debug_abbrev   0x00000000      0xc9b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3       0xd1 APPLICATION/application.o
+ .debug_abbrev  0x00000574       0xc6 ECUAL/BUTTON/button.o
+ .debug_abbrev  0x0000063a       0xb6 ECUAL/LED/led.o
+ .debug_abbrev  0x000006f0       0xbd ECUAL/MOTOR/motor.o
+ .debug_abbrev  0x000007ad       0xcf main.o
+ .debug_abbrev  0x0000087c      0x109 MCAL/DIO/dio.o
+ .debug_abbrev  0x00000985       0xe7 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .debug_abbrev  0x00000a6c      0x107 MCAL/PWM/pwm.o
+ .debug_abbrev  0x00000b73      0x128 MCAL/TIMER/timer.o
+
+.debug_line     0x00000000     0x154e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x116 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_line    0x00000116      0x34c APPLICATION/application.o
+ .debug_line    0x00000462      0x186 ECUAL/BUTTON/button.o
+ .debug_line    0x000005e8      0x183 ECUAL/LED/led.o
+ .debug_line    0x0000076b      0x251 ECUAL/MOTOR/motor.o
+ .debug_line    0x000009bc      0x167 main.o
+ .debug_line    0x00000b23      0x23f MCAL/DIO/dio.o
+ .debug_line    0x00000d62      0x220 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .debug_line    0x00000f82      0x2e2 MCAL/PWM/pwm.o
+ .debug_line    0x00001264      0x2ea MCAL/TIMER/timer.o
+
+.debug_frame    0x00000000      0x790
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x74 APPLICATION/application.o
+ .debug_frame   0x00000074       0x74 ECUAL/BUTTON/button.o
+ .debug_frame   0x000000e8       0x94 ECUAL/LED/led.o
+ .debug_frame   0x0000017c       0xf4 ECUAL/MOTOR/motor.o
+ .debug_frame   0x00000270       0x74 main.o
+ .debug_frame   0x000002e4       0xf4 MCAL/DIO/dio.o
+ .debug_frame   0x000003d8      0x160 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .debug_frame   0x00000538      0x194 MCAL/PWM/pwm.o
+ .debug_frame   0x000006cc       0xc4 MCAL/TIMER/timer.o
+
+.debug_str      0x00000000      0xa13
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 D:/LearnInDepthEmbedded/Tools/AVR_studio/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_str     0x00000196      0x273 APPLICATION/application.o
+                                0x2cf (size before relaxing)
+ .debug_str     0x00000409      0x1be ECUAL/BUTTON/button.o
+                                0x35d (size before relaxing)
+ .debug_str     0x000005c7       0xba ECUAL/LED/led.o
+                                0x2fb (size before relaxing)
+ .debug_str     0x00000681       0xcb ECUAL/MOTOR/motor.o
+                                0x2b3 (size before relaxing)
+ .debug_str     0x0000074c       0x22 main.o
+                                0x230 (size before relaxing)
+ .debug_str     0x0000076e       0xcd MCAL/DIO/dio.o
+                                0x31a (size before relaxing)
+ .debug_str     0x0000083b       0x86 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+                                0x2a3 (size before relaxing)
+ .debug_str     0x000008c1       0x9f MCAL/PWM/pwm.o
+                                0x2ac (size before relaxing)
+ .debug_str     0x00000960       0xb3 MCAL/TIMER/timer.o
+                                0x2d2 (size before relaxing)
+
+.debug_loc      0x00000000      0xf9f
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xbd APPLICATION/application.o
+ .debug_loc     0x000000bd       0xd7 ECUAL/BUTTON/button.o
+ .debug_loc     0x00000194      0x120 ECUAL/LED/led.o
+ .debug_loc     0x000002b4      0x1d1 ECUAL/MOTOR/motor.o
+ .debug_loc     0x00000485       0xc9 main.o
+ .debug_loc     0x0000054e      0x1f8 MCAL/DIO/dio.o
+ .debug_loc     0x00000746      0x31b MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .debug_loc     0x00000a61      0x397 MCAL/PWM/pwm.o
+ .debug_loc     0x00000df8      0x1a7 MCAL/TIMER/timer.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x180
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 APPLICATION/application.o
+ .debug_ranges  0x00000020       0x20 ECUAL/BUTTON/button.o
+ .debug_ranges  0x00000040       0x28 ECUAL/LED/led.o
+ .debug_ranges  0x00000068       0x40 ECUAL/MOTOR/motor.o
+ .debug_ranges  0x000000a8       0x20 main.o
+ .debug_ranges  0x000000c8       0x40 MCAL/DIO/dio.o
+ .debug_ranges  0x00000108       0x28 MCAL/EXTERNAL_INTERRUPT/external_interrupt.o
+ .debug_ranges  0x00000130       0x30 MCAL/PWM/pwm.o
+ .debug_ranges  0x00000160       0x20 MCAL/TIMER/timer.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Atmega32.elf elf32-avr)
+LOAD linker stubs
