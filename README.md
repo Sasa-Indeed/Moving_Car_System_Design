@@ -10,6 +10,8 @@ This project is about moving a car in rectangular shape using Atmega32 I made al
 - One button to start (PB1)
 - One button for stop (PB2)
 - Four LEDs (LED1, LED2, LED3, LED4)
+- Multiplexer 74153
+- Two Resistors
 ## System Movement
 
 1. The car starts initially from 0 speed
